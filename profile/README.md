@@ -3,6 +3,7 @@ We build novel, decentralized, trustless DeFi protocols.
 ### Currently building:
 - Rainshower: Protocol for trustless, undercollateralized borrowing.
 - [Sothis](https://github.com/rainshowerLabs/sothis): Tool for replaying historical ethereum state
+- [Blutgang](https://github.com/rainshowerLabs/blutgang): Blazing fast RPC load balancer
 <!--
 
 **Here are some ideas to get you started:**
