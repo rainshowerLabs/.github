@@ -1,5 +1,5 @@
 ## Rainshower Labs ⛈️
-We build novel, decentralized, trustless DeFi protocols.
+We build infrastructure for the next 1 billion Web3 users.
 ### Currently building:
 - Rainshower: Protocol for trustless, undercollateralized borrowing.
 - [Sothis](https://github.com/rainshowerLabs/sothis): Tool for replaying historical ethereum state
