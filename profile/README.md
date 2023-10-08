@@ -3,7 +3,7 @@ We build infrastructure for the next 1 billion Web3 users.
 ### Currently building:
 - Rainshower: Protocol for trustless, undercollateralized borrowing.
 - [Sothis](https://github.com/rainshowerLabs/sothis): Tool for replaying historical ethereum state
-- [Blutgang](https://github.com/rainshowerLabs/blutgang): Blazing fast RPC load balancer
+- [Blutgang](https://github.com/rainshowerLabs/blutgang): *The* fastest Ethereum JSON-RPC load balancer and cache
 <!--
 
 **Here are some ideas to get you started:**
